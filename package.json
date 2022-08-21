@@ -25,7 +25,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.9.1"
+    "@actions/core": "^1.9.1",
+    "ajv": "^8.11.0"
   },
   "devDependencies": {
     "@types/node": "^16.11.51",
